@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="96" y="96" width="320" height="320" rx="48" fill="transparent" stroke="#0B4C86" stroke-width="28"/>
+  <path d="M256 192C221.49 192 192 221.49 192 256C192 290.51 221.49 320 256 320C290.51 320 320 290.51 320 256C320 221.49 290.51 192 256 192Z" fill="#0B4C86"/>
+  <path d="M256 360V432" stroke="#0B4C86" stroke-width="24" stroke-linecap="round"/>
+  <path d="M256 80V152" stroke="#0B4C86" stroke-width="24" stroke-linecap="round"/>
+  <path d="M360 256H432" stroke="#0B4C86" stroke-width="24" stroke-linecap="round"/>
+  <path d="M80 256H152" stroke="#0B4C86" stroke-width="24" stroke-linecap="round"/>
+  <path d="M338.42 338.42L386.86 386.86" stroke="#0B4C86" stroke-width="24" stroke-linecap="round"/>
+  <path d="M125.14 125.14L173.58 173.58" stroke="#0B4C86" stroke-width="24" stroke-linecap="round"/>
+  <path d="M338.42 173.58L386.86 125.14" stroke="#0B4C86" stroke-width="24" stroke-linecap="round"/>
+  <path d="M125.14 386.86L173.58 338.42" stroke="#0B4C86" stroke-width="24" stroke-linecap="round"/>
+  <text x="256" y="280" text-anchor="middle" fill="#fff" font-family="Inter, sans-serif" font-size="56" font-weight="700">IoT</text>
+</svg>
