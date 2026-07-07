@@ -352,8 +352,8 @@ function Footer() {
         <div>
           <div className="font-display mb-4">Address</div>
           <div className="space-y-2 text-sm text-foreground/70">
-            <div>1st Lane, near V-Hotel, Dwaraka Nagar</div>
-            <div>Visakhapatnam, Andhra Pradesh 530016</div>
+            <div>Dwarakanagar 1st Lane, Sri Mukha Complex</div>
+            <div>2nd Floor, Beside Budhil Park Hotel, Visakhapatnam</div>
           </div>
         </div>
       </div>

@@ -79,7 +79,7 @@ function Contact() {
             <ContactRow icon="✆" label="+91 81427 53345" href="https://wa.me/918142753345" />
             <ContactRow
               icon="⌂"
-              label="Corporate: 1st Lane, near V-Hotel, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016"
+              label="Corporate: Dwarakanagar 1st Lane, Sri Mukha Complex 2nd Floor, Beside Budhil Park Hotel, Visakhapatnam"
             />
             <ContactRow
               icon="⌂"

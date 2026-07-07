@@ -177,7 +177,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           ],
           address: {
             "@type": "PostalAddress",
-            streetAddress: "1st Lane, near V-Hotel, Dwaraka Nagar",
+            streetAddress: "Dwarakanagar 1st Lane, Sri Mukha Complex 2nd Floor, Beside Budhil Park Hotel",
             addressLocality: "Visakhapatnam",
             addressRegion: "Andhra Pradesh",
             postalCode: "530016",
