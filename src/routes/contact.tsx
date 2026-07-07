@@ -81,10 +81,6 @@ function Contact() {
               icon="⌂"
               label="Corporate: Dwarakanagar 1st Lane, Sri Mukha Complex 2nd Floor, Beside Budhil Park Hotel, Visakhapatnam"
             />
-            <ContactRow
-              icon="⌂"
-              label="Dno. 31-8-74/2, Neelamma Vepachettu, Visakhapatnam 530020"
-            />
             <ContactRow icon="◎" label="www.nbits.in" href="https://www.nbits.in" />
           </div>
         </div>
