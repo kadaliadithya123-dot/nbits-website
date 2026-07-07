@@ -2,9 +2,6 @@
   "name": "tanstack_start_ts",
   "private": true,
   "sideEffects": false,
-  "config": {
-    "omitOptional": true
-  },
   "type": "module",
   "scripts": {
     "dev": "vite dev",
